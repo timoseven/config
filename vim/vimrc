@@ -1,3 +1,6 @@
 set ts=4
-set expandtab
+"set expandtab
 set autoindent
+colorscheme candy 
+set t_Co=256
+syntax on
